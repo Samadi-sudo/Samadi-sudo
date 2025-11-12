@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="banner.jpeg" width="100%" alt="Banner for Samadi-sudo">
+<img src="banner.jpeg" width="50%" alt="Banner for Samadi-sudo">
 
 <h1 align="center">Hey there 👋, I'm Abdessamad (aka Samadi-sudo)</h1>
 <h3 align="center">💻 MIP Student | 🤖 Robotics Enthusiast | 📊 Data Science Explorer</h3>
