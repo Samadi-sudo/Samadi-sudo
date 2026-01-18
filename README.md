@@ -1,9 +1,16 @@
 <!-- Banner -->
-<img src="banner.jpeg" style="width:100%;height:300px;object-fit:cover;" alt="Banner for Samadi-sudo">
+<p align="center">
+  <img src="banner.gif" alt="Banner for Samadi-sudo" width="100%">
+</p>
+
 
 <h1 align="center">Hey there 👋, I'm Abdessamad <br/><sub>(<em>Samadi-sudo</em>)</sub></h1>
-<p align="center"><strong>Mathematics · Computer Science · Physics (MIP)</strong> — AI, Robotics & Automation</p>
-
+<p align="center">
+  <strong>MIP Student (Math, Computer Science, Physics)</strong><br/>
+  I believe that knowledge is a universal gift that belongs to everyone. By bridging the gap between 
+  mathematical theory and AI-driven robotics, I build tools that automate the mundane(Routine) not just for 
+  efficiency, but to give people back their most precious resource: <strong>time for what truly matters in life.</strong>
+</p>
 ---
 
 ## Table of Contents
