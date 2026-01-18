@@ -11,6 +11,7 @@
   mathematical theory and AI-driven robotics, I build tools that automate the mundane(Routine) not just for 
   efficiency, but to give people back their most precious resource: <strong>time for what truly matters in life.</strong>
 </p>
+
 ---
 
 ## Table of Contents
