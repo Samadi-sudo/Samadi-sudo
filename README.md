@@ -24,19 +24,42 @@
 
 ---
 
-## About
+## About ​💭​
 
-I am a MIP student at FSR, Rabat with a strong interest in AI, robotics and embedded systems. I enjoy turning theoretical models into working hardware — currently building an AI-driven line follower robot using ESP32 and Q-learning. I also teach Python and Scratch to beginners.
+I am a MIP student at FSR Rabat and a student at 42 School (1337 Rabat – UM6P), with a strong interest in artificial intelligence, robotics, and embedded systems. My approach combines solid mathematical foundations with hands-on, project-based learning.
+
+I am comfortable working on embedded systems and robotics projects, building AI-driven solutions primarily with Python, and using C++ for competitive programming and performance-critical tasks. I also have experience in game development using the Godot engine, creating prototypes and gameplay systems. I enjoy tackling complex problems, optimizing solutions, and continuously pushing my technical boundaries through real-world challenges.
 
 ---
 
-## Skills
+## Skills 🦅
 
-- Languages: Python, C, C++
-- Embedded: Arduino, ESP32
-- Tools: Git, Linux, TensorFlow / PyTorch (experimenting)
+### Programming Languages
+- **Python** — AI, automation, data-driven projects  
+- **C / C++** — systems programming, competitive programming  
+- **JavaScript & TypeScript** — working knowledge (frontend prototyping)
 
-<p align="left"><img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,git,github,html,css,javascript,react" alt="skills"/></p>
+### Frontend & Web
+- **HTML, CSS** — responsive layouts and UI prototyping  
+- **React (with TypeScript)** — component-based UIs (familiar, not expert)
+
+### Artificial Intelligence
+- Machine learning fundamentals  
+- **TensorFlow & PyTorch** — experimentation and prototyping
+
+### Embedded Systems & Robotics
+- **Arduino, ESP32** — sensor integration, low-level control, hardware–software interaction
+
+### Game Development
+- **Godot Engine** — gameplay systems and prototyping
+
+### Development Tools
+- **Git & GitHub**  
+- **Linux** (daily driver)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,git,github,tensorflow,pytorch,godot,html,css,javascript,react,ts" alt="skills"/>
+</p>
 
 ---
 
