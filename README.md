@@ -57,7 +57,7 @@ I am comfortable working on embedded systems and robotics projects, building AI-
 - **Git & GitHub**  
 - **Linux** (daily driver)
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,git,github,tensorflow,pytorch,godot,html,css,javascript,react,ts" alt="skills"/>
 </p>
 
