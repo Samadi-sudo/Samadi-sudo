@@ -16,8 +16,8 @@
 
 ## Table of Contents
 
-- [About](#about)
-- [Skills](#skills)
+- [About](#About)
+- [Skills](#Skills)
 - [Featured Projects](#featured-projects)
 - [Achievements](#achievements)
 - [Contact](#contact)
@@ -35,23 +35,24 @@ I am comfortable working on embedded systems and robotics projects, building AI-
 ## Skills 🦅
 
 ### Programming Languages
-- **Python** — AI, automation, data-driven projects  
-- **C / C++** — systems programming, competitive programming  
-- **JavaScript & TypeScript** — working knowledge (frontend prototyping)
+- **Python** : AI, automation, data-driven projects, 42 projects  
+- **C / C++** : embeded systems programming, competitive programming, 42 projects  
+- **JavaScript & TypeScript** : still learning not a professional yet..., i use them when a project need a platform on the web to make it user friendly, or in web dev competion
+- **GDscript** : only using it on godot when i participate in a game jam or i need to show a working prototype to see if it's good before starting working on the real deal
 
 ### Frontend & Web
-- **HTML, CSS** — responsive layouts and UI prototyping  
-- **React (with TypeScript)** — component-based UIs (familiar, not expert)
+- **HTML, CSS** -> responsive layouts and UI prototyping  
+- **React (with TypeScript)** -> component-based UIs (familiar, not expert)
 
 ### Artificial Intelligence
 - Machine learning fundamentals  
-- **TensorFlow & PyTorch** — experimentation and prototyping
+- **TensorFlow & PyTorch** -> experimentation and prototyping
 
 ### Embedded Systems & Robotics
-- **Arduino, ESP32** — sensor integration, low-level control, hardware–software interaction
+- **Arduino, ESP32, rasbery pi** -> sensor integration, low-level control, hardware–software interaction, everything i need to make my project alive
 
 ### Game Development
-- **Godot Engine** — gameplay systems and prototyping
+- **Godot Engine** -> gameplay systems and prototyping
 
 ### Development Tools
 - **Git & GitHub**  
@@ -79,7 +80,7 @@ More projects and demos are available on my GitHub profile.
 
 ---
 
-## Contact
+## Contact me... 🤙🏻
 
 <p align="center">
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -89,4 +90,4 @@ More projects and demos are available on my GitHub profile.
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/Samadi-sudo">Samadi-sudo</a></p>
+
