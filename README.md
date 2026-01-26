@@ -16,15 +16,15 @@
 
 ## Table of Contents
 
-- [About](#About)
-- [Skills](#Skills)
+- [About](#about)
+- [Skills](#skills)
 - [Featured Projects](#featured-projects)
 - [Achievements](#achievements)
-- [Contact](#contact)
+- [Contact](#contact-me)
 
 ---
 
-## About ​💭​
+## About 💭
 
 I am a MIP student at FSR Rabat and a student at 42 School (1337 Rabat – UM6P), with a strong interest in artificial intelligence, robotics, and embedded systems. My approach combines solid mathematical foundations with hands-on, project-based learning.
 
@@ -80,7 +80,7 @@ More projects and demos are available on my GitHub profile.
 
 ---
 
-## Contact me... 🤙🏻
+## Contact Me 🤙🏻
 
 <p align="center">
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
