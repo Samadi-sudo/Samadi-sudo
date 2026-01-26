@@ -82,6 +82,8 @@ More projects and demos are available on my GitHub profile.
 
 ## Contact Me 🤙🏻
 
+[![<abantari>'s 42 stats](https://badge.mediaplus.ma/darkblue/<abantari>)](https://github.com/oakoudad/badge42)
+
 <p align="center">
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/samadi-sudo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
