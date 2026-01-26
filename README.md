@@ -16,11 +16,11 @@
 
 ## Table of Contents
 
-- [About](#about)
-- [Skills](#skills)
+- [About](#about-)
+- [Skills](#skills-)
 - [Featured Projects](#featured-projects)
 - [Achievements](#achievements)
-- [Contact](#contact-me)
+- [Contact](#contact-me-)
 
 ---
 
