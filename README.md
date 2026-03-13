@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center">Hey there 👋, I'm Abdessamad <br/><sub>(<em>Samadi-sudo</em>)</sub></h1>
+<h1 align="center">Hey there , I'm Abdessamad <br/><sub>(<em>Samadi-sudo</em>)</sub></h1>
 <p align="center">
   <strong>MIP Student (Math, Computer Science, Physics)</strong><br/>
   I believe that knowledge is a universal gift that belongs to everyone. By bridging the gap between 
